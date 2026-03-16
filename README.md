@@ -194,7 +194,7 @@ The model is evaluated using:
 
 ![Streamlit UI](images/streamlit_ui.png)
 
-![FastAPI Docs](images/api_docs.png)
+![FastAPI Docs](images/fastapi_docs.png)
 
 
 📌 Key Learning Outcomes
