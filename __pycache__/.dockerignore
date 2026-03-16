@@ -1,0 +1,8 @@
+__pycache__
+.ipynb_checkpoints
+*.ipynb
+Dataset
+.git
+.gitignore
+venv
+.env
