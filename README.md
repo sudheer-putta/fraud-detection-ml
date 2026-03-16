@@ -114,9 +114,9 @@ Fraud_Detection_SMOTE
 Clone the repository:
 
 
-* git clone https://github.com/yourusername/fraud-detection-system.git
+* git clone https://github.com/sudheer-putta/fraud-detection-ml.git
 
-* cd fraud-detection-system
+* cd fraud-detection-ml
 
 Install dependencies:
 
